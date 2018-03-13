@@ -1,0 +1,6 @@
+c:\users\ac3\documents\visual studio 2017\Projects\ProjectTrois\ProjectTrois\obj\Debug\ProjectTrois.csprojResolveAssemblyReference.cache
+c:\users\ac3\documents\visual studio 2017\Projects\ProjectTrois\ProjectTrois\bin\Debug\ProjectTrois.exe.config
+c:\users\ac3\documents\visual studio 2017\Projects\ProjectTrois\ProjectTrois\bin\Debug\ProjectTrois.exe
+c:\users\ac3\documents\visual studio 2017\Projects\ProjectTrois\ProjectTrois\bin\Debug\ProjectTrois.pdb
+c:\users\ac3\documents\visual studio 2017\Projects\ProjectTrois\ProjectTrois\obj\Debug\ProjectTrois.exe
+c:\users\ac3\documents\visual studio 2017\Projects\ProjectTrois\ProjectTrois\obj\Debug\ProjectTrois.pdb
